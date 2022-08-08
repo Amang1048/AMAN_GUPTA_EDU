@@ -1,0 +1,112 @@
+/*
+font-family: 'Anton', sans-serif;
+font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Hahmlet', serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Sora', sans-serif;
+*/
+
+
+
+
+
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #FFCB74;
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+  }
+  #intro{
+    color: #FFCB74;
+  }
+
+  .image{
+    width: 40px;
+  }
+  .image1{
+    width: 100px;
+    margin: 15px;
+    padding: 2px;
+  }
+  .head1{
+    font-weight: 600;
+  }
+  .nav-link{
+    font-family: 'Roboto Slab', serif;
+    color: #FFCB74;
+  }
+  .links{
+    font-size: 1.5rem;
+    color: #FFCB74;
+  }
+  .main-img{
+    width: 350px;
+    margin-top: 15px;
+    padding-top: 10px;
+  }
+  .container{
+    color: #33231c;
+  }
+.soft-head{
+    color: #33231c;
+}
+.design-head{
+    font-family: 'Hahmlet', serif;
+    color: #FFCB74;
+}
+hr{
+    color: #000000;
+
+}
+footer {
+    background: #212529;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+ }
+
+ .table{
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  text-align: center;
+  font-size: 1.2rem;
+ }
+ .table-responsive::-webkit-scrollbar{
+display: none;
+ }
+ #edu{
+  color: #FFCB74;
+ }
+ th td{
+  width: 75px;
+  height: 75px;
+ }
+ /* .hello{
+  width: 500px;
+  height: 500px;
+ } */
+ .card{
+  background-color: #FFCB74;
+ }
